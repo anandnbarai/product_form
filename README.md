@@ -7,9 +7,9 @@ enter 3-4 product in product_master table or create add form to add product name
 
 3) Price: On basis of product selected auto fetch Price relevant to
 
-4) product Unit: On basis of product selected auto fetch unit relevant to
+4) Product Unit: On basis of product selected auto fetch unit relevant to
 
-5) product Qty.: User Defined text box user can enter qty of product
+5) Product Qty.: User Defined text box user can enter qty of product
 
 6) Discount : User Defined text box user can enter Discount of product
 
