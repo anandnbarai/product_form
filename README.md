@@ -8,7 +8,7 @@
 
 5) Product Unit: On basis of product selected auto fetch Unit relevant to
 
-6) Product Qty.: User Defined text box, user can enter qty of Product
+6) Product Qty.: User Defined text box, user can enter Qty of Product
 
 7) Discount : User Defined text box, user can enter Discount of Product
 
