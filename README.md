@@ -1,6 +1,6 @@
 # Product Form Task
 
-1) Customer Name: User defined text box user can enter name
+1) Customer Name: User defined text box user can enter Name
 
 2) Product: User fill dropdown list from database from product_master table. Pre enter 3-4 Product in product_master table or create add form to add Product Name, Price and Unit.
 
