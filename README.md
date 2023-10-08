@@ -3,9 +3,9 @@
 1) Customer Name: User defined text box user can enter name
 
 2) Product: User fill dropdown list from database from product_master Table. Pre
-enter 3-4 product in product_master table
+enter 3-4 product in product_master table or create add form to add product name, Price and Unit.
 
-3) Rate: On basis of product selected auto fetch Rate relevant to
+3) Price: On basis of product selected auto fetch Price relevant to
 
 4) product Unit: On basis of product selected auto fetch unit relevant to
 
