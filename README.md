@@ -12,7 +12,7 @@
 
 7) Discount : User Defined text box user can enter Discount of product
 
-8) Net Amount: On basis of Price and Discount entered, auto calculate Net Amount, (Price – Discount Of Price)
+8) Net Amount: On basis of Price and Discount entered, auto calculate Net Amount (Price – Discount Of Price)
 
 9) Total Amount: On basis of Net Amount and Qty auto calculate Total Amount, (Net Amount * Qty)
 
