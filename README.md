@@ -11,7 +11,7 @@ enter 3-4 product in product_master table
 
 5) product Qty.: User Defined text box user can enter qty of product
 
-6) Disc %: User Defined text box user can enter Disc% of product
+6) Discount : User Defined text box user can enter Discount of product
 
 7) Net Amount: On basis of Rate and Discount entered, auto calculate Net Amount, (Rate – Disc% Of Rate)
 
