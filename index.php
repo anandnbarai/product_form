@@ -32,7 +32,7 @@ include('connect.php');
     <div class="container-fluid mt-3">
         <button type="submit" name="view" class="bg-primary text-white border-0 p-1"><a href="addProduct.php">&nbsp;&nbsp;&nbsp;Add Product&nbsp;&nbsp;&nbsp;</a></button>
     </div>
-    <h2 class="text-center">Add Customer & Product Details Form</h2>
+    <h2 class="text-center">Customer & Order Details Form</h2>
     <!-- Add Data Form -->
     <form method="post" class="mt-3">
         <div class="container">
@@ -171,7 +171,7 @@ include('connect.php');
         });
 
         //function to calculate Total Amount
-      
+
 
 
         $('#addData').click(function() {
