@@ -86,7 +86,7 @@ include('connect.php');
                 <input type="text" name="iTotalAmount" id="iTotalAmount" class="form-control" placeholder="Net Amount * Quantity" autocomplete="off" readonly>
             </div>
             <div class="form-outline mb-4 w-50 m-auto">
-                <input type="button" name="AddData" id="addData" class="bg-primary text-white border-0 p-1" value="   Add   ">
+                <input type="button" name="AddData" id="addData" class="bg-primary text-white border-0 p-1" value="    Add    ">
             </div>
         </div>
     </form>
