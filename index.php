@@ -119,7 +119,6 @@ include('connect.php');
 
 <script>
     $(document).ready(function() {
-
         //function to fetch and store value of unit and price 
         $('#vProductName').change(function() {
             var iProductId = $(this).val();
@@ -150,7 +149,6 @@ include('connect.php');
 
         //function to calculate Net Amount
         $('#iDiscount, #iQty').change(function() {
-
             // Calculate the net amount
             const iPrice = $('#iPrice').val();
             const iDiscount = $('#iDiscount').val();
